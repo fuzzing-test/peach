@@ -1,0 +1,9 @@
+name: peach
+version: 0.1.0
+
+authors:
+  - proxy <3nki.nam.shub@gmail.com>
+
+crystal: 0.35.1
+
+license: CNPL
